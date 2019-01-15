@@ -19,6 +19,10 @@ const target =`
         console.log("hello world")
     }
 
+    constructor(props){
+        super(props);
+    }
+
 `
 
 
